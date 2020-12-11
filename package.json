@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000038",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "bigint类型转为number",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
